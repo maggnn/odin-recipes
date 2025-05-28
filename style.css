@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(16,24,40);
+    color: rgb(209,199,173);
+    text-align: center;
+}
+
+.div1{
+    width: 500px;
+    margin: 0 auto;
+    padding: 1px 30px 30px;
+    background-color: rgb(30,41,57);
+}
+
+ul, ol{
+    display: inline-block;
+    text-align: left;
+}
+ol{
+    width: 650px;
+}
